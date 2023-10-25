@@ -1,11 +1,11 @@
-h1{
+h1, h3{
     font-family: sans-serif;
     font-weight: bold;
     color: palevioletred;
     background-color: aliceblue;
 }
 
-.main{
+.main, h5{
     background-color: aliceblue;
     font-family: sans-serif;
     color:black;
