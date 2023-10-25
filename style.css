@@ -6,8 +6,16 @@ h1{
 
 .main{
     background-color: aliceblue;
+    font-family: sans-serif;
+}
+
+.secondary{
+    background-color: aliceblue;
+    color: palevioletred;
+    font-family: sans-serif;
+    
 }
 
 body{
-    background-color: beige;
+    background-color: burlywood;
 }
