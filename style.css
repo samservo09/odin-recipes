@@ -2,18 +2,20 @@ h1{
     font-family: sans-serif;
     font-weight: bold;
     color: palevioletred;
+    background-color: aliceblue;
 }
 
 .main{
     background-color: aliceblue;
     font-family: sans-serif;
+    color:black;
 }
 
 .secondary{
     background-color: aliceblue;
     color: palevioletred;
     font-family: sans-serif;
-    
+
 }
 
 body{
