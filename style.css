@@ -3,21 +3,57 @@ h1, h3{
     font-weight: bold;
     color: palevioletred;
     background-color: aliceblue;
+    text-align: center;
+    padding: 15px;
+    margin: 19px;
+}
+
+h1 {
+    font-size: 55px;
+    padding: 15px;
+    text-align: center;
 }
 
 .main, h5{
     background-color: aliceblue;
     font-family: sans-serif;
     color:black;
+    display: inline-block;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 90px 19px 19px;
+}
+
+.main-list{
+    display: inline-block;
+    padding: 5px;
+}
+
+h5{
+    text-align: center;
+    padding: 15px;
 }
 
 .secondary{
     background-color: aliceblue;
     color: palevioletred;
     font-family: sans-serif;
-
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 19px;
 }
 
 body{
     background-color: burlywood;
+}
+
+.image{
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
